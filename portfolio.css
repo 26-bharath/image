@@ -1,0 +1,27 @@
+li{
+    display: inline;
+    font-style: italic;
+    color: black;
+    padding-inline-start: 200px;
+    margin-bottom: 50px;
+}
+.con{
+    background-color: dimgray;
+
+    
+}
+img{
+    border-radius: 25px;
+}
+header{
+    background-color: rgb(139, 139, 255);
+    color: black;
+}
+ul{
+    color: black;
+}
+footer{
+    background-color: rgb(139, 139, 255);
+   padding: 50px;
+   color: black;
+}
